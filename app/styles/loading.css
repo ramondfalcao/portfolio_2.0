@@ -1,0 +1,14 @@
+/* styles/loading.css */
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.loading h2 {
+  margin-right: 10px;
+}
+
+/* Adicione aqui estilos para sua animação de carregamento */
