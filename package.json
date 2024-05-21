@@ -16,8 +16,6 @@
     "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18",
-    "react-particles": "^2.12.2",
-    "react-tsparticles": "^2.12.2",
     "tailwind-merge": "^2.2.1",
     "tailwindcss-animate": "^1.0.7",
     "tsparticles": "^3.4.0"

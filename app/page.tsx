@@ -4,6 +4,7 @@ import React, { useState, useEffect } from 'react';
 import Loading from '@/app/_components/Loading';
 import { Progress } from '@/components/ui/progress';
 import Header from './_components/Header';
+import Particles3D from '@/app/_components/Particles3d';
 
 const Home = () => {
   const [progress, setProgress] = useState(10);
@@ -35,6 +36,7 @@ const Home = () => {
             <h1>Página principal</h1>
             <p>Bem-vindo à minha página Next.js!</p>
           </div>
+          <Particles3D />
         </div>
       {/* )} */}
     </main>
